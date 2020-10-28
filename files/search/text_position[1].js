@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"Interactive",left:0.107307,top:0.298393,width:0.123812,height:0.021932},{word:"E-book",left:0.149425,top:0.321199,width:0.081734,height:0.021932}]};
